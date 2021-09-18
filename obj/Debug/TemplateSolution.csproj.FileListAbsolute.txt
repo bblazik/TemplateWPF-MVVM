@@ -1,0 +1,14 @@
+C:\Users\DamyRadeZiomek\source\repos\TemplateSolution\TemplateSolution\bin\Debug\TemplateSolution.exe.config
+C:\Users\DamyRadeZiomek\source\repos\TemplateSolution\TemplateSolution\bin\Debug\TemplateSolution.exe
+C:\Users\DamyRadeZiomek\source\repos\TemplateSolution\TemplateSolution\bin\Debug\TemplateSolution.pdb
+C:\Users\DamyRadeZiomek\source\repos\TemplateSolution\TemplateSolution\obj\Debug\Config\App.g.cs
+C:\Users\DamyRadeZiomek\source\repos\TemplateSolution\TemplateSolution\obj\Debug\TemplateSolution_MarkupCompile.cache
+C:\Users\DamyRadeZiomek\source\repos\TemplateSolution\TemplateSolution\obj\Debug\TemplateSolution_MarkupCompile.lref
+C:\Users\DamyRadeZiomek\source\repos\TemplateSolution\TemplateSolution\obj\Debug\TemplateSolution.g.resources
+C:\Users\DamyRadeZiomek\source\repos\TemplateSolution\TemplateSolution\obj\Debug\TemplateSolution.Properties.Resources.resources
+C:\Users\DamyRadeZiomek\source\repos\TemplateSolution\TemplateSolution\obj\Debug\TemplateSolution.csproj.GenerateResource.cache
+C:\Users\DamyRadeZiomek\source\repos\TemplateSolution\TemplateSolution\obj\Debug\TemplateSolution.csproj.CoreCompileInputs.cache
+C:\Users\DamyRadeZiomek\source\repos\TemplateSolution\TemplateSolution\obj\Debug\TemplateSolution.exe
+C:\Users\DamyRadeZiomek\source\repos\TemplateSolution\TemplateSolution\obj\Debug\TemplateSolution.pdb
+C:\Users\DamyRadeZiomek\source\repos\TemplateSolution\TemplateSolution\obj\Debug\View\MainWindow.g.cs
+C:\Users\DamyRadeZiomek\source\repos\TemplateSolution\TemplateSolution\obj\Debug\View\MainWindow.baml
