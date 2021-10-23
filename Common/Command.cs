@@ -7,18 +7,18 @@ using System.Windows.Input;
 
 namespace TemplateSolution.Common
 {
-    public class Command : ICommand
+    public class Command<T> : ICommand
     {
-        private Action _action;
+        private Action<T> _action;
         private Func<bool> _canExecute;
 
-        public Command(Action action)
+        public Command(Action<T> action)
         {
             _action = action;
             _canExecute = () => true;
         }
 
-        public Command(Action action, Func<bool> canExecute)
+        public Command(Action<T> action, Func<bool> canExecute)
         {
             _action = action;
             _canExecute = canExecute;
@@ -37,7 +37,11 @@ namespace TemplateSolution.Common
 
         public void Execute(object parameter)
         {
-            _action();
+            if (_action != null)
+            {
+                var castParameter = (T)Convert.ChangeType(parameter, typeof(T));
+                _action(castParameter);
+            }
         }
     }
 }

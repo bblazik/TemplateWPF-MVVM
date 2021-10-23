@@ -8,15 +8,15 @@ namespace TemplateSolution
         public TemplateViewModel()
         {
             ExampleText = "Yay, Hello world!";
-            
+
             // When without parameter - ExampleCommand = new Command(ExampleAction);
-            ExampleCommand = new Command(() => ExampleAction("abc")); 
+            ExampleCommand = new Command(() => ExampleAction("abc"));
         }
 
         private void ExampleAction(string s)
         {
-            ExampleText += "123";
             MessageBox.Show("Hello, world!", "My App" + s);
         }
     }
 }
+
